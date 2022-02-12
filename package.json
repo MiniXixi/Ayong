@@ -40,7 +40,7 @@
     "reqwest": "~2.0.5"
   },
   "devDependencies": {
-    "ajv": "^4.11.8",
+    "ajv": "^6.12.3",
     "ajv-keywords": "^1.5.1",
     "autoprefixer": "^6.3.6",
     "babel-cli": "~6.7.5",
